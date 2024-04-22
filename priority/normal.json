@@ -5,7 +5,7 @@
         "length": 5,
         "frame_payload": {
             "stream_dependency": 11,
-            "weight": 8,
+            "weight": 7,
             "exclusive": false,
             "padding_length": null,
             "padding": null
